@@ -1,0 +1,88 @@
+msgid ""
+msgstr "Project-Id-Version: svn_updater 0.9.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-03-28 08:54+0000\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+
+#: packages/svn_updater/controller.php:11
+#: packages/svn_updater/controller.php:32
+#: packages/svn_updater/single_pages/dashboard/system/backup_restore/svn_updater/view.php:14
+msgid "SVN Updater"
+msgstr ""
+
+#: packages/svn_updater/controller.php:15
+#: packages/svn_updater/controller.php:32
+msgid "Update the website and/or installed packages by svn update"
+msgstr ""
+
+#: packages/svn_updater/controllers/dashboard/system/backup_restore/svn_updater/controller.php:65
+#: packages/svn_updater/controllers/dashboard/system/backup_restore/svn_updater/controller.php:68
+#, php-format
+msgid "Invalid svn folder: %s"
+msgstr ""
+
+#: packages/svn_updater/controllers/dashboard/system/backup_restore/svn_updater/controller.php:82
+#, php-format
+msgid "Invalid svn operation: %s"
+msgstr ""
+
+#: packages/svn_updater/controllers/dashboard/system/backup_restore/svn_updater/controller.php:86
+#, php-format
+msgid "Unable to enter folder %s"
+msgstr ""
+
+#: packages/svn_updater/controllers/dashboard/system/backup_restore/svn_updater/controller.php:100
+#, php-format
+msgid "Program failed with return code %s"
+msgstr ""
+
+#: packages/svn_updater/single_pages/dashboard/system/backup_restore/svn_updater/view.php:19
+msgid "No folder under version control has been found."
+msgstr ""
+
+#: packages/svn_updater/single_pages/dashboard/system/backup_restore/svn_updater/view.php:24
+msgid "Folder"
+msgstr ""
+
+#: packages/svn_updater/single_pages/dashboard/system/backup_restore/svn_updater/view.php:25
+msgid "Status"
+msgstr ""
+
+#: packages/svn_updater/single_pages/dashboard/system/backup_restore/svn_updater/view.php:35
+msgid "Select all"
+msgstr ""
+
+#: packages/svn_updater/single_pages/dashboard/system/backup_restore/svn_updater/view.php:36
+msgid "Select none"
+msgstr ""
+
+#: packages/svn_updater/single_pages/dashboard/system/backup_restore/svn_updater/view.php:37
+msgid "Update"
+msgstr ""
+
+#: packages/svn_updater/single_pages/dashboard/system/backup_restore/svn_updater/view.php:38
+msgid "Show status"
+msgstr ""
+
+#: packages/svn_updater/single_pages/dashboard/system/backup_restore/svn_updater/view.php:93
+msgctxt "Status"
+msgid "Clean"
+msgstr ""
+
+#: packages/svn_updater/single_pages/dashboard/system/backup_restore/svn_updater/view.php:114
+msgid "Done"
+msgstr ""
+
+#: packages/svn_updater/single_pages/dashboard/system/backup_restore/svn_updater/view.php:135
+msgid "No result from server"
+msgstr ""
+
+#: packages/svn_updater/single_pages/dashboard/system/backup_restore/svn_updater/view.php:161
+#: packages/svn_updater/single_pages/dashboard/system/backup_restore/svn_updater/view.php:181
+msgid "No folder selected"
+msgstr ""

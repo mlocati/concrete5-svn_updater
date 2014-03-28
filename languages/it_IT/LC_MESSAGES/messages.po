@@ -1,0 +1,95 @@
+msgid ""
+msgstr "Project-Id-Version: svn_updater 0.9.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-03-28 08:54+0000\n"
+"PO-Revision-Date: 2014-03-27 16:26+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Poedit-Basepath: ../../../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Language: it_IT\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: Italy\n"
+
+#: packages/svn_updater/controller.php:11
+#: packages/svn_updater/controller.php:32
+#: packages/svn_updater/single_pages/dashboard/system/backup_restore/svn_updater/view.php:14
+msgid "SVN Updater"
+msgstr "Aggiorna tramite SVN"
+
+#: packages/svn_updater/controller.php:15
+#: packages/svn_updater/controller.php:32
+msgid "Update the website and/or installed packages by svn update"
+msgstr "Aggiorna il sito e/o i paccketti installati tramite svn update"
+
+#: packages/svn_updater/controllers/dashboard/system/backup_restore/svn_updater/controller.php:65
+#: packages/svn_updater/controllers/dashboard/system/backup_restore/svn_updater/controller.php:68
+#, php-format
+msgid "Invalid svn folder: %s"
+msgstr "Cartella svn non valida: %s"
+
+#: packages/svn_updater/controllers/dashboard/system/backup_restore/svn_updater/controller.php:82
+#, php-format
+msgid "Invalid svn operation: %s"
+msgstr "Operazione svn non valida: %s"
+
+#: packages/svn_updater/controllers/dashboard/system/backup_restore/svn_updater/controller.php:86
+#, php-format
+msgid "Unable to enter folder %s"
+msgstr "Impossibile entrare nella cartella %s"
+
+#: packages/svn_updater/controllers/dashboard/system/backup_restore/svn_updater/controller.php:100
+#, php-format
+msgid "Program failed with return code %s"
+msgstr "Il programma è fallito con codice di ritorno %s"
+
+#: packages/svn_updater/single_pages/dashboard/system/backup_restore/svn_updater/view.php:19
+msgid "No folder under version control has been found."
+msgstr "Non è stata trovata alcuna cartella sotto controllo di versione."
+
+#: packages/svn_updater/single_pages/dashboard/system/backup_restore/svn_updater/view.php:24
+msgid "Folder"
+msgstr "Cartella"
+
+#: packages/svn_updater/single_pages/dashboard/system/backup_restore/svn_updater/view.php:25
+msgid "Status"
+msgstr "Stato"
+
+#: packages/svn_updater/single_pages/dashboard/system/backup_restore/svn_updater/view.php:35
+msgid "Select all"
+msgstr "Seleziona tutto"
+
+#: packages/svn_updater/single_pages/dashboard/system/backup_restore/svn_updater/view.php:36
+msgid "Select none"
+msgstr "Seleziona nulla"
+
+#: packages/svn_updater/single_pages/dashboard/system/backup_restore/svn_updater/view.php:37
+msgid "Update"
+msgstr "Aggiorna"
+
+#: packages/svn_updater/single_pages/dashboard/system/backup_restore/svn_updater/view.php:38
+msgid "Show status"
+msgstr "Mostra stato"
+
+#: packages/svn_updater/single_pages/dashboard/system/backup_restore/svn_updater/view.php:93
+msgctxt "Status"
+msgid "Clean"
+msgstr "Pulito"
+
+#: packages/svn_updater/single_pages/dashboard/system/backup_restore/svn_updater/view.php:114
+msgid "Done"
+msgstr "Fatto"
+
+#: packages/svn_updater/single_pages/dashboard/system/backup_restore/svn_updater/view.php:135
+msgid "No result from server"
+msgstr "Nessun risultato dal server"
+
+#: packages/svn_updater/single_pages/dashboard/system/backup_restore/svn_updater/view.php:161
+#: packages/svn_updater/single_pages/dashboard/system/backup_restore/svn_updater/view.php:181
+msgid "No folder selected"
+msgstr "Nessuna cartella selezionata"
